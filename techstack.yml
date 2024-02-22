@@ -1,0 +1,177 @@
+repo_name: tahmidbintaslim/next.js-landing-page-template
+report_id: b1638eac1a3f863b1d0e640df804b640
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-22T15:54:57+00:00'
+requested_by: tahmidbintaslim
+provider: github
+branch: main
+detected_tools_count: 13
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template
+  detection_source: Repo Metadata
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 5.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: tahmidbintaslim
+  last_updated_on: 2022-06-19 05:49:14.000000000 Z
+- name: Next.js
+  description: A small framework for server-rendered universal JavaScript apps
+  website_url: https://nextjs.org/
+  version: 12.1.5
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: tahmidbintaslim
+  last_updated_on: 2022-06-19 05:49:14.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: tahmidbintaslim
+  last_updated_on: 2022-06-19 05:49:14.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: tahmidbintaslim
+  last_updated_on: 2022-06-19 05:49:14.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template
+  detection_source: Repo Metadata
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: tahmidbintaslim
+  last_updated_on: 2022-06-19 05:49:14.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: tahmidbintaslim
+  last_updated_on: 2022-06-19 05:49:14.000000000 Z
+- name: eslint-config-next
+  description: ESLint configuration used by Next.js
+  package_url: https://www.npmjs.com/eslint-config-next
+  version: 12.1.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: tahmidbintaslim
+  last_updated_on: 2022-06-19 05:49:14.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: tahmidbintaslim
+  last_updated_on: 2022-06-19 05:49:14.000000000 Z
+- name: react-bootstrap
+  description: Bootstrap 3 components built with React
+  package_url: https://www.npmjs.com/react-bootstrap
+  version: 2.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16383/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: tahmidbintaslim
+  last_updated_on: 2022-06-19 05:49:14.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/tahmidbintaslim/next.js-landing-page-template/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: tahmidbintaslim
+  last_updated_on: 2022-06-19 05:49:14.000000000 Z
